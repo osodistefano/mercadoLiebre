@@ -1,0 +1,67 @@
+/*Paleta de colores
+Amarillo: #EAC926;
+Azul: #03264C;
+Celeste: #1259c3;
+Gris oscuro: #666;
+Gris claro: #ebebeb;
+Verde: #39b54a;*/
+
+
+* {
+    font-family: 'roboto', sans-serif;
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #ebebeb;
+}
+
+header{
+    background-color:#EAC926;
+}
+header div.header1 {
+    padding: 10px;
+    width: 50%;
+}
+header div.header1.logo{
+    
+
+}
+.lupaSearch{
+    background-color:#ebebeb;
+    display: inline-block;
+    border:black 1px solid;
+    border-radius: 3px;
+}
+.titVisitOfer{
+    font-size: 24px;
+}
+.precios{
+    font-size: 18px;
+}
+.descuentos{
+    font-size: 16px;
+}
+.descripcion{
+    font-size: 16px;
+}
+
+div.burger-menu{
+    text-align: center;
+}
+
+div.burger-menu i{
+    background-color: #03264C;
+    border-radius: 3px;
+    color: #FFF;
+    font-size: 20px;
+    height: 25px;
+    margin: 10px 0px 20px 0px;
+    padding: 10px ;
+    width: 40px;
+}
+.centrado {
+    text-align: center;
+}
